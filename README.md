@@ -75,11 +75,6 @@ Easily spin up entire tunneling infrastructures onto your server without touchin
 
 ## 💬 Community & Support
 
-* **Telegram Channel:** [t.me/firewallfalcons](https://t.me/firewallfalcons) - Join for updates and support!
-* **Donations:** If you find this project useful and want to support its development, you can contribute via:
-    * **PayPal:** [paypal.me/00xmahmoud](https://paypal.me/00xmahmoud)
-    * **Binance ID:** `885652061`
-    * **USDT (TRC20):** `TM2AfVAWQJiuriGC6KoTmsAJuUTTBd2f1R`
 
 ---
 
