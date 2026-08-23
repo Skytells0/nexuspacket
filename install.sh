@@ -10,8 +10,8 @@ fi
 echo "Installing FirewallFalcon Manager..."
 
 # URLs (IPv4 forced to avoid GitHub IPv6 issues)
-MENU_URL="https://raw.githubusercontent.com/FirewallFalconsLabs/FirewallFalcon-Manager/main/menu.sh"
-SSHD_URL="https://raw.githubusercontent.com/FirewallFalconsLabs/FirewallFalcon-Manager/main/ssh"
+MENU_URL="https://raw.githubusercontent.com/Skytells0/nexuspacket/main/menu.sh"
+SSHD_URL="https://raw.githubusercontent.com/Skytells0/nexuspacket/main/ssh"
 
 # Helper to download files (supports both curl and wget)
 download_file() {
